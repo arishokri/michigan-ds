@@ -1,2 +1,1 @@
-This is where notes will go.
-# Here is the Header.
+Assignments and resources for Applied Data Science with Python Specialization by University of Michigan on Coursera.
